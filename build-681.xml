@@ -20,7 +20,7 @@
   </project>
   <project groups="minilayout" name="coreos/coreos-buildbot" path="src/third_party/coreos-buildbot" revision="3e4b20f67839aa541839eca6b4b7274d5ad1932c" upstream="refs/heads/master"/>
   <project groups="minilayout" name="coreos/coreos-cloudinit" path="src/third_party/coreos-cloudinit" revision="d086bca9e4b60be7843bd49e500fbb45fdab8eb8" upstream="refs/heads/master"/>
-  <project groups="minilayout" name="smilart/coreos-overlay" path="src/third_party/coreos-overlay" revision="2e9dfa08c2d694b994b12c1a035f369b7bc16e9f" upstream="refs/heads/smilart-build-681"/>
+  <project groups="minilayout" name="smilart/coreos-overlay" path="src/third_party/coreos-overlay" revision="46cf5f6cdcd8226ae567ec68a17368cfd8811916" upstream="refs/heads/smilart-build-681"/>
   <project groups="minilayout" name="coreos/coretest" path="src/third_party/coretest" revision="00d2298bdcfbd93e79169ab9069c93dfef3ec3a0" upstream="refs/heads/master"/>
   <project groups="minilayout" name="coreos/dev-util" path="src/platform/dev" revision="a7c075c398cb5a5c0125a38934b336d5b67be1a3" upstream="refs/heads/master"/>
   <project groups="minilayout" name="coreos/efunctions" path="src/third_party/efunctions" revision="ecef964cb1eed5c8482ab4c75a23de35fd390584" upstream="refs/heads/master"/>
@@ -34,7 +34,7 @@
   <project groups="minilayout" name="coreos/mantle" path="src/third_party/mantle" revision="366c0ec356c2af5736d48f84d0d7259cdba110ce" upstream="refs/heads/master"/>
   <project groups="minilayout" name="coreos/mayday" path="src/third_party/mayday" revision="a1b890831f2e9b74708a9382de4dd9fb5fe947c0" upstream="refs/heads/master"/>
   <project groups="minilayout" name="coreos/nss-altfiles" path="src/third_party/nss-altfiles" revision="508d986e38c70bd0636740d287d2fe807822fb57" upstream="refs/heads/master"/>
-  <project groups="minilayout" name="smilart/portage-stable" path="src/third_party/portage-stable" revision="f716b340c31811415f0583519129c97e0f83debb" upstream="refs/heads/smilart-build-681"/>
+  <project groups="minilayout" name="smilart/portage-stable" path="src/third_party/portage-stable" revision="0d51a057423c6e38cf5737528591c1f4ee94f814" upstream="refs/heads/smilart-build-681"/>
   <project groups="minilayout" name="coreos/rkt" path="src/third_party/rkt" revision="5020a9780786459d0b7935dab4d5101f29f3f4d0" upstream="refs/heads/master"/>
   <project groups="minilayout" name="coreos/scripts" path="src/scripts" revision="bc7e9d7048ecac34aeb4a381df45a993f4f43bbd" upstream="refs/heads/master"/>
   <project groups="minilayout" name="coreos/sdnotify-proxy" path="src/third_party/sdnotify-proxy" revision="bfd0269267d91f3bbe89db49ec8ea8903ae8aa3c" upstream="refs/heads/master"/>
