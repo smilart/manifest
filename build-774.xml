@@ -37,7 +37,7 @@
   <project groups="minilayout" name="coreos/mantle" path="src/third_party/mantle" revision="264c518c0a37cb42b84f43ba49132891ee370bea" upstream="refs/heads/master"/>
   <project groups="minilayout" name="coreos/mayday" path="src/third_party/mayday" revision="a1b890831f2e9b74708a9382de4dd9fb5fe947c0" upstream="refs/heads/master"/>
   <project groups="minilayout" name="coreos/nss-altfiles" path="src/third_party/nss-altfiles" revision="508d986e38c70bd0636740d287d2fe807822fb57" upstream="refs/heads/master"/>
-  <project groups="minilayout" name="smilart/portage-stable" path="src/third_party/portage-stable" revision="1804cdbe1b45ff4db0c072ee97baa47a8373d7c2" upstream="refs/heads/smilart-build-774x"/>
+  <project groups="minilayout" name="smilart/portage-stable" path="src/third_party/portage-stable" revision="fd4be420bb490697a3fa429771549991f57cd0de" upstream="refs/heads/smilart-build-774x"/>
   <project groups="minilayout" name="coreos/rkt" path="src/third_party/rkt" revision="08b6d2905a89b74bd2b0f4d96c2c4f362dfda211" upstream="refs/heads/master"/>
   <project groups="minilayout" name="smilart/scripts" path="src/scripts" revision="bf6f1af354ad49ded10a0db0c51f10ae7f2fa921" upstream="refs/heads/smilart-build-774"/>
   <project groups="minilayout" name="coreos/sdnotify-proxy" path="src/third_party/sdnotify-proxy" revision="bfd0269267d91f3bbe89db49ec8ea8903ae8aa3c" upstream="refs/heads/master"/>
