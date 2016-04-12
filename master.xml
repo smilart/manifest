@@ -29,9 +29,6 @@ Your sources have been sync'd successfully.
   <project path="src/scripts" name="coreos/scripts"
            groups="minilayout" />
 
-  <project path="src/scripts" name="smilart/scripts"
-           groups="minilayout" />
-
   <project path="src/third_party/portage-stable"
            name="smilart/portage-stable"
            groups="minilayout" />
