@@ -24,7 +24,7 @@
   <project groups="minilayout" name="coreos/coreos-overlay" path="src/third_party/coreos-overlay" revision="ba8fc174b9d9674409d18a3c20bdd911a4145c39" upstream="refs/heads/build-899"/>
   <project groups="minilayout" name="coreos/coretest" path="src/third_party/coretest" revision="991faaf28eb21f185fed0708b526849a8bc128e6" upstream="refs/heads/master"/>
   <project groups="minilayout" name="smilart/coreos-overlay" path="src/third_party/coreos-overlay" revision="1a89db0c1ff9bc9864b9c5cb5201cf2356334b97" upstream="refs/heads/smilart-build-899"/>
-  <project groups="minilayout" name="smilart/portage-stable" path="src/third_party/portage-stable" revision="e606fab855dd9647e29977e96816f2315d9316af" upstream="refs/heads/smilart-build-899"/>
+  <project groups="minilayout" name="smilart/portage-stable" path="src/third_party/portage-stable" revision="ba4c6e9391c00dcec57dcc212909acd033edaa21" upstream="refs/heads/smilart-build-899"/>
   <project groups="minilayout" name="coreos/scripts" path="src/scripts" revision="db5d937aab80cb7dcb397df5514c915708bd3977" upstream="refs/heads/master"/>
   <project groups="minilayout" name="coreos/dev-util" path="src/platform/dev" revision="072c33135839b692c6ceb37765e2e0f1a65b416c" upstream="refs/heads/master"/>
   <project groups="minilayout" name="coreos/docker" path="src/third_party/docker" revision="5e2f31e99220536bc0d845bfbfedde59a007a276" upstream="refs/heads/master"/>
