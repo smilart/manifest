@@ -36,13 +36,6 @@ Your sources have been sync'd successfully.
            name="smilart/coreos-overlay"
            groups="minilayout" />
 
-  <project path="src/third_party/portage-stable"
-           name="coreos/portage-stable"
-           groups="minilayout" />
-  <project path="src/third_party/coreos-overlay"
-           name="coreos/coreos-overlay"
-           groups="minilayout" />
-
   <project path="src/third_party/efunctions"
            name="coreos/efunctions"
            groups="minilayout" />
