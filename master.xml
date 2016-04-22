@@ -49,7 +49,7 @@ Your sources have been sync'd successfully.
            groups="minilayout" />
 
   <project path="src/third_party/init"
-           name="coreos/init"
+           name="smilart/init"
            groups="minilayout" />
 
   <project path="src/third_party/bootengine"
