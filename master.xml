@@ -60,10 +60,6 @@ Your sources have been sync'd successfully.
            name="coreos/installer"
            groups="minilayout" />
 
-  <project path="src/third_party/etcd"
-           name="coreos/etcd"
-           groups="minilayout" />
-
   <project path="src/third_party/fleet"
            name="coreos/fleet"
            groups="minilayout" />
