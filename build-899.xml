@@ -32,7 +32,7 @@
   <project groups="minilayout" name="coreos/fleet" path="src/third_party/fleet" revision="7b2a5473ec02e1e7f20effc3dfa18904b82b0588" upstream="refs/heads/master"/>
   <project groups="minilayout" name="coreos/grub" path="src/third_party/grub" revision="0b9360364545ee809f0d0a1b3a0045cb6d7987df" upstream="refs/heads/master"/>
   <project groups="minilayout" name="coreos/ignition" path="src/third_party/ignition" revision="0cd5dd3bd22c1cb7eed7572fcd52f91fc685d2de" upstream="refs/heads/master"/>
-  <project groups="minilayout" name="smilart/init" path="src/third_party/init" revision="5363ebd1ba0584da189f618c6983da8ad8f8b80c" upstream="refs/heads/smilart-build-899"/>
+  <project groups="minilayout" name="smilart/init" path="src/third_party/init" revision="9ec6be587e8877fc38a7dfb9a8d7215d43605e5a" upstream="refs/heads/smilart-build-899"/>
   <project groups="minilayout" name="coreos/installer" path="src/platform/installer" revision="95815a7cc15abea574e1b06d9fd403b90b29ba01" upstream="refs/heads/master"/>
   <project groups="minilayout" name="coreos/locksmith" path="src/third_party/locksmith" revision="49a92cdff8d74d3ca472245c37ae6c6e4522608e" upstream="refs/heads/master"/>
   <project groups="minilayout" name="coreos/mantle" path="src/third_party/mantle" revision="5eceffacf26e7273fb220211308bf6725cb25e58" upstream="refs/heads/master"/>
