@@ -16,12 +16,15 @@ Your sources have been sync'd successfully.
     <copyfile src="AUTHORS" dest="AUTHORS" />
     <copyfile src="LICENSE" dest="LICENSE" />
   </project>
+
   <project path="chromite/third_party/pyelftools"
            groups="minilayout" remote="cros"
            name="chromiumos/third_party/pyelftools" />
+
   <project path="src/platform/crostestutils"
            name="chromiumos/platform/crostestutils"
            groups="minilayout" remote="cros" />
+
   <project path="src/platform/factory-utils"
            name="chromiumos/platform/factory-utils"
            groups="minilayout" remote="cros" />
@@ -32,6 +35,7 @@ Your sources have been sync'd successfully.
   <project path="src/third_party/portage-stable"
            name="smilart/portage-stable"
            groups="minilayout" />
+
   <project path="src/third_party/coreos-overlay"
            name="smilart/coreos-overlay"
            groups="minilayout" />
