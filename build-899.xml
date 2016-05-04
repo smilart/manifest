@@ -22,7 +22,7 @@
   <project groups="minilayout" name="coreos/coreos-cloudinit" path="src/third_party/coreos-cloudinit" revision="08eb9bae3c4deb470b63c24c659f7c8659eadb27" upstream="refs/heads/master"/>
   <project groups="minilayout" name="coreos/coreos-metadata" path="src/third_party/coreos-metadata" revision="d976d664051f5b95ab60f7f1770b1b2bcc2877b2" upstream="refs/heads/master"/>
   <project groups="minilayout" name="coreos/coretest" path="src/third_party/coretest" revision="991faaf28eb21f185fed0708b526849a8bc128e6" upstream="refs/heads/master"/>
-  <project groups="minilayout" name="smilart/coreos-overlay" path="src/third_party/coreos-overlay" revision="9ec6be587e8877fc38a7dfb9a8d7215d43605e5a" upstream="refs/heads/smilart-build-899"/>
+  <project groups="minilayout" name="smilart/coreos-overlay" path="src/third_party/coreos-overlay" revision="8e301a0dfbc743f7706b7d8f7739368f770dba66" upstream="refs/heads/smilart-build-899"/>
   <project groups="minilayout" name="smilart/portage-stable" path="src/third_party/portage-stable" revision="ffd3aa063441e8882630bd3710aebc9de827f6ec" upstream="refs/heads/smilart-build-899"/>
   <project groups="minilayout" name="coreos/scripts" path="src/scripts" revision="db5d937aab80cb7dcb397df5514c915708bd3977" upstream="refs/heads/master"/>
   <project groups="minilayout" name="coreos/dev-util" path="src/platform/dev" revision="072c33135839b692c6ceb37765e2e0f1a65b416c" upstream="refs/heads/master"/>
