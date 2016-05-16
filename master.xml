@@ -26,7 +26,7 @@ Your sources have been sync'd successfully.
            name="chromiumos/platform/factory-utils"
            groups="minilayout" remote="cros" />
 
-  <project path="src/scripts" name="smilart/scripts"
+  <project path="src/scripts" name="coreos/scripts"
            groups="minilayout" />
 
   <project path="src/third_party/portage-stable"
