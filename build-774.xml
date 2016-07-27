@@ -39,7 +39,7 @@
   <project groups="minilayout" name="coreos/nss-altfiles" path="src/third_party/nss-altfiles" revision="508d986e38c70bd0636740d287d2fe807822fb57" upstream="refs/heads/master"/>
   <project groups="minilayout" name="smilart/portage-stable" path="src/third_party/portage-stable" revision="e606fab855dd9647e29977e96816f2315d9316af" upstream="refs/heads/smilart-build-v3.5">
   <project groups="minilayout" name="coreos/rkt" path="src/third_party/rkt" revision="08b6d2905a89b74bd2b0f4d96c2c4f362dfda211" upstream="refs/heads/master"/>
-  <project groups="minilayout" name="smilart/scripts" path="src/scripts" revision="06cc742d603ba92e6fc64a732092c856818e532f" upstream="refs/heads/smilart-build-v3.5">
+  <project groups="minilayout" name="smilart/scripts" path="src/scripts" revision="e266b9daabe82f95167dd12993f1a6008d405d7f" upstream="refs/heads/smilart-build-v3.5">
   <project groups="minilayout" name="coreos/sdnotify-proxy" path="src/third_party/sdnotify-proxy" revision="bfd0269267d91f3bbe89db49ec8ea8903ae8aa3c" upstream="refs/heads/master"/>
   <project groups="minilayout" name="coreos/seismograph" path="src/third_party/seismograph" revision="d67bd80268735676a95c056d99126047d385c5ea" upstream="refs/heads/master"/>
   <project groups="minilayout" name="coreos/shim" path="src/third_party/shim" revision="03a1513b0985fd682b13a8d29fe3f1314a704c66" upstream="refs/heads/master"/>
